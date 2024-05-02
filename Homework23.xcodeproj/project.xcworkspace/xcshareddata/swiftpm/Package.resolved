@@ -1,0 +1,15 @@
+{
+  "originHash" : "98078f958219d619cce0bb9bc7650db82f1ed6d385660c442a2d86e5eb08fd64",
+  "pins" : [
+    {
+      "identity" : "new-library-",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Gatchu69/New-Library-.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2708871d46aeb028d70d9f878efdc923fff4750b"
+      }
+    }
+  ],
+  "version" : 3
+}
